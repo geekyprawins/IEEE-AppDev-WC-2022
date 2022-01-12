@@ -1,5 +1,3 @@
-# IEEE-AppDev-WC-2022
-
 ## Welcome to IEEE SBM App Dev domain!
 Resources and Tasks for App Development using Flutter for WC of IEEE-SBM
 
